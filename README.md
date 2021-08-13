@@ -2,12 +2,13 @@
 
 ## Introducton
 This is super store sales exploratory data analysis & visualization projects developed using python & tableau public.
-- View Jupyter Notebook File
-- View Tableau Dashboard
+- View as Markdown File : [Click Here](https://github.com/Nsadaa/Sales-Data-Analysis-and-Visualization/blob/main/Sales%20Analysis.md)
+- View as Jupyter Notebook File : [Click Here](https://github.com/Nsadaa/Sales-Data-Analysis-and-Visualization/blob/main/Sales%20Analysis.ipynb)
+- View Tableau Dashboard : [Click Here](https://public.tableau.com/app/profile/nilshan.sadaruwan/viz/SalesDataAnalysisVisualization/Visualization1)
 
 ## Objectives
 - Clean & analyse the messey data 
-- Derived usefull insights throrugh the data analysis process
+- Derive usefull insights throrugh the data analysis process
 - Visualize the derived insights through python & tableau public
 
 ## Technology & Tools
@@ -17,3 +18,7 @@ This is super store sales exploratory data analysis & visualization projects dev
 
 ## Resources
 - www.kaggle.com
+- https://www.python.org/
+- https://pypi.org/
+- https://jupyter.org/
+- https://public.tableau.com/en-us/s/
