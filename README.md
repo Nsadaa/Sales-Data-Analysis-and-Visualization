@@ -7,9 +7,9 @@ This is super store sales exploratory data analysis & visualization projects dev
 - View Tableau Dashboard : [Click Here](https://public.tableau.com/app/profile/nilshan.sadaruwan/viz/SalesDataAnalysisVisualization/Visualization1)
 
 ## Objectives
-- Clean & analyse the messey data 
-- Derive usefull insights throrugh the data analysis process
-- Visualize the derived insights through python & tableau public
+- Clean & analyse raw data 
+- Gain usefull insights throrugh the data analysis process
+- Visualize the Gained insights through python & tableau public
 
 ## Technology & Tools
 - Python
